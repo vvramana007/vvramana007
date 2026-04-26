@@ -1,12 +1,12 @@
 # Hi 👋, I'm Venkata Ramana
 
-🚀 AI Engineer | GenAI | Agentic Systems | RAG | SAP + AI  
+🚀 AI / ML Engineer | GenAI | Agentic Systems | RAG | SAP + AI  
 📍 Fort Collins, CO  
 
 ---
 
 ## 🔥 About Me
-I’m an AI Engineer with 4+ years of experience building **agentic AI systems, high-precision RAG pipelines, and scalable ML platforms** across finance and logistics domains.
+I’m an AI & ML Engineer with 4+ years of experience building **agentic AI systems, high-precision RAG pipelines, and scalable ML platforms** across finance and logistics domains.
 
 I specialize in:
 - Multi-agent reasoning systems (LangGraph, Semantic Kernel)
