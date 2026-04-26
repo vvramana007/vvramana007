@@ -1,94 +1,88 @@
-# Hi 👋, I'm Venkata Ramana
+<table>
+<tr>
 
-🚀 AI / ML Engineer | GenAI | Agentic Systems | RAG | SAP + AI  
+<td width="30%" valign="top">
+
+### 👤 Venkata Ramana  
+💼 AI Engineer  
 📍 Fort Collins, CO  
 
----
-
-## 🔥 About Me
-I’m an AI & ML Engineer with 4+ years of experience building **agentic AI systems, high-precision RAG pipelines, and scalable ML platforms** across finance and logistics domains.
-
-I specialize in:
-- Multi-agent reasoning systems (LangGraph, Semantic Kernel)
-- Enterprise-grade RAG with **100% citation accuracy**
-- Cloud-native AI solutions (Azure + AWS)
-- AI + SAP integrations for enterprise automation
+📧 ramana121198@gmail.com  
+🔗 LinkedIn  
 
 ---
 
-## 🧠 Tech Stack & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-Agentic%20AI-blue?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o-green?style=for-the-badge)
-![Azure](https://img.shields.io/badge/Azure-AI-blue?style=for-the-badge&logo=microsoftazure)
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)
-![Databricks](https://img.shields.io/badge/Databricks-Data-red?style=for-the-badge)
-![Spark](https://img.shields.io/badge/Apache_Spark-BigData-yellow?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge&logo=kubernetes)
-![SAP](https://img.shields.io/badge/SAP-S4HANA-blue?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-VectorDB-purple?style=for-the-badge)
-![MLflow](https://img.shields.io/badge/MLflow-MLOps-blue?style=for-the-badge)
+### 🧠 About Me
+AI Engineer with 4+ years of experience building:
+- Agentic AI systems  
+- RAG pipelines  
+- Enterprise AI platforms  
 
 ---
 
-## 🚀 Featured Projects
+### 🔗 Connect
+[LinkedIn](#)  
+[GitHub](#)
 
-### 🤖 Multi-Agent AI System (LangGraph)
-- Built tool-driven multi-agent pipelines for reasoning workflows
-- Reduced research time by 65% using autonomous agents
-- Implemented self-correction loops to reduce hallucinations
+</td>
 
-👉 [Project Link]
+<td width="70%" valign="top">
 
----
+## 🚀 Hi 👋 I'm Venkata Ramana
 
-### 📄 High-Precision RAG Pipeline
-- Built enterprise RAG system with **100% citation accuracy**
-- Used Azure AI Search + hybrid vector retrieval
-- Implemented hierarchical chunking + embedding pipelines
-
-👉 [Project Link]
+AI Engineer | GenAI | Agentic Systems | RAG | SAP + AI
 
 ---
 
-### 🧠 AI Interview Preparation Agent
-- AI system that converts JD + resume → personalized Q&A
-- Structured answers for technical + behavioral interviews
-- Built using OpenAI + prompt engineering workflows
+## 🧠 Tech Stack
 
-👉 [Project Link]
-
----
-
-### 🔍 RAG for SAP Incident Troubleshooting
-- Built vector search over SAP logs, tickets, and KB
-- Enabled faster root-cause analysis using LLMs
-- Integrated embeddings + similarity search
-
-👉 [Project Link]
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agentic-blue?style=flat-square)
+![Azure](https://img.shields.io/badge/Azure-AI-blue?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=flat-square)
+![Databricks](https://img.shields.io/badge/Databricks-Data-red?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-Vector-purple?style=flat-square)
 
 ---
 
-### ⚙️ AI-Powered SAP Automation Layer
-- Built AI layer on top of SAP systems
-- Generated code snippets, summarized logs, automated workflows
-- Combined ABAP + LLM orchestration
+## ⭐ Featured Projects
 
-👉 [Project Link]
+<table>
+<tr>
 
----
+<td width="33%">
+  
+### 🤖 Multi-Agent AI  
+LangGraph system for reasoning workflows  
+⚡ Reduced research time by 65%  
 
-## 🏗️ What I Focus On
-- Agentic AI systems (multi-step reasoning)
-- Enterprise AI governance & security
-- Retrieval accuracy & evaluation pipelines
-- Scalable AI infrastructure (cloud-native)
+</td>
 
----
+<td width="33%">
 
-## 📫 Let's Connect
-- LinkedIn: [Your Link]
-- Email: ramana121198@gmail.com
+### 📄 RAG Pipeline  
+Enterprise retrieval system  
+🎯 100% citation accuracy  
+
+</td>
+
+<td width="33%">
+
+### 🔍 SAP RAG  
+AI troubleshooting assistant  
+📊 Faster RCA  
+
+</td>
+
+</tr>
+</table>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VenkataRamanaVeeraiahgari&show_icons=true&theme=tokyonight" />
+</p>
+
+</td>
+</tr>
+</table>
