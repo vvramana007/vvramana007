@@ -4,16 +4,14 @@
 <td width="30%" valign="top">
 
 ### 👤 Venkata Ramana  
-💼 AI Engineer  
+💼 AI & ML Engineer  
 📍 Fort Collins, CO  
 
-📧 ramana121198@gmail.com  
-🔗 LinkedIn  
 
 ---
 
 ### 🧠 About Me
-AI Engineer with 4+ years of experience building:
+AI & ML Engineer with 5 years of experience building:
 - Agentic AI systems  
 - RAG pipelines  
 - Enterprise AI platforms  
@@ -21,8 +19,8 @@ AI Engineer with 4+ years of experience building:
 ---
 
 ### 🔗 Connect
-[LinkedIn](#)  
-[GitHub](#)
+[📧 ramana121198@gmail.com](#)  
+[🔗 https://www.linkedin.com/in/venkata-ramana-veeraiahgari-9042b3169/ ](#)
 
 </td>
 
