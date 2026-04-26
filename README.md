@@ -16,28 +16,21 @@ I specialize in:
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Tech Stack & Tools
 
-**AI & GenAI:**  
-LangGraph, Semantic Kernel, RAG, GPT-4o/o1, Hugging Face, Prompt Engineering  
-
-**ML & Data:**  
-XGBoost, LSTM, Prophet, Feature Engineering, MLflow  
-
-**Data Engineering:**  
-Databricks, Spark, Airflow, dbt, Azure Data Factory  
-
-**Vector DB & Search:**  
-Azure AI Search, OpenSearch, FAISS  
-
-**Cloud:**  
-Azure (Functions, ML Studio), AWS (Lambda, ECR)  
-
-**Dev & MLOps:**  
-Python (FastAPI, Flask), Docker, Kubernetes, CI/CD  
-
-**SAP + Enterprise:**  
-SAP S/4HANA, ABAP, AI-driven SAP automations  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agentic%20AI-blue?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o-green?style=for-the-badge)
+![Azure](https://img.shields.io/badge/Azure-AI-blue?style=for-the-badge&logo=microsoftazure)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)
+![Databricks](https://img.shields.io/badge/Databricks-Data-red?style=for-the-badge)
+![Spark](https://img.shields.io/badge/Apache_Spark-BigData-yellow?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge&logo=kubernetes)
+![SAP](https://img.shields.io/badge/SAP-S4HANA-blue?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-VectorDB-purple?style=for-the-badge)
+![MLflow](https://img.shields.io/badge/MLflow-MLOps-blue?style=for-the-badge)
 
 ---
 
