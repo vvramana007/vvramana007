@@ -10,7 +10,7 @@
 ---
 
 ### 🧠 About Me
-AI & ML Engineer with 4+ years of experience building:
+AI & ML Engineer with 5+ years of experience building:
 - Agentic AI systems  
 - High-precision RAG pipelines  
 - Enterprise AI automation platforms  
