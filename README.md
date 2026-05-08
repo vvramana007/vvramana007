@@ -57,29 +57,21 @@ AI Engineer | GenAI | Agentic Systems | RAG | SAP + AI
 Agentic AI for energy optimization  
 🌍 Weather-aware decision system  
 
-👉 [Repo Link]
+👉 https://github.com/vvramana007/EnergAI-Agentic-AI
 
 </td>
 
 <td width="33%">
 
-### 🤖 Omni AI Agents  
+### 🤖 Omni AP AI Agents  
 Enterprise AI automation platform  
 🏗️ SAP + SSO + AI workflows  
 
-👉 [Repo Link]
+👉 https://github.com/vvramana007/Omni-AP-AI-Agents-Platform
 
 </td>
 
-<td width="33%">
 
-### 📄 AP AI Agent  
-Invoice automation system  
-⚙️ Email → PDF → LLM → Excel  
-
-👉 [Repo Link]
-
-</td>
 
 </tr>
 
@@ -91,19 +83,10 @@ Invoice automation system
 AI job matching automation  
 📊 Resume → Job scoring  
 
-👉 [Repo Link]
+👉 https://github.com/vvramana007/AI-Jobs-Agent
 
 </td>
 
-<td width="33%">
-
-### 🧠 Resume AI Agent  
-AI resume evaluation system  
-📑 Structured hiring insights  
-
-👉 [Repo Link]
-
-</td>
 
 <td width="33%">
 
@@ -111,7 +94,7 @@ AI resume evaluation system
 COVID safety system  
 🌐 IoT + UV + monitoring  
 
-👉 [Repo Link]
+👉 https://github.com/vvramana007/IoT-Smart-Waste-System
 
 </td>
 
