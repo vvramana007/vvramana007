@@ -53,6 +53,15 @@ AI Engineer | GenAI | Agentic Systems | RAG | SAP + AI
 
 <td width="33%">
   
+### 🤖 RAG-LangChain-Streamlit-App 
+End-to-end RAG application using LangChain, LLMs, and Streamlit for intelligent document querying.
+
+👉 
+
+</td>
+
+<td width="33%">
+  
 ### ⚡ EnergAI  
 Agentic AI for energy optimization  
 🌍 Weather-aware decision system  
