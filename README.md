@@ -99,6 +99,22 @@ AI job matching automation
 
 <td width="33%">
 
+
+### 📊 walmart-forecasting
+Time-series forecasting project evaluating FRED retail sales as a leading indicator for Walmart revenue.
+
+👉 https://github.com/vvramana007/walmart-forecasting
+
+</td>
+
+
+
+</tr>
+
+<tr>
+
+<td width="33%">
+
 ### 🗑️ IoT Smart Waste  
 COVID safety system  
 🌐 IoT + UV + monitoring  
