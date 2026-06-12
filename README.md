@@ -14,7 +14,7 @@
 <br/><br/>
 
 <a href="https://vvramana007.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/venkata-ramana-veeraiahgari-9042b3169"><img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/venkata-ramana-veeraiahgari-9042b3169"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:ramana121198@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/vvramana007"><img src="https://img.shields.io/badge/GitHub-Follow-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
@@ -57,7 +57,7 @@ intersection of Agentic AI, retrieval-augmented generation, and large-scale ML.
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" alt="AI/ML"/>
   <br/><br/>
   <img src="https://img.shields.io/badge/LangGraph-1C1C2E?style=flat-square&logo=langchain&logoColor=A78BFA" alt="LangGraph"/>
-  <img src="https://img.shields.io/badge/Semantic%20Kernel-1C1C2E?style=flat-square&logo=microsoft&logoColor=A78BFA" alt="Semantic Kernel"/>
+  <img src="https://img.shields.io/badge/Semantic%20Kernel-1C1C2E?style=flat-square" alt="Semantic Kernel"/>
   <img src="https://img.shields.io/badge/Azure%20OpenAI-1C1C2E?style=flat-square&logo=openai&logoColor=A78BFA" alt="Azure OpenAI"/>
   <img src="https://img.shields.io/badge/Hugging%20Face-1C1C2E?style=flat-square&logo=huggingface&logoColor=A78BFA" alt="Hugging Face"/>
   <img src="https://img.shields.io/badge/XGBoost-1C1C2E?style=flat-square&logo=python&logoColor=A78BFA" alt="XGBoost"/>
@@ -68,8 +68,8 @@ intersection of Agentic AI, retrieval-augmented generation, and large-scale ML.
 <div align="center">
   <img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,redis&theme=dark" alt="Backend"/>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Azure%20AI%20Search-1C1C2E?style=flat-square&logo=microsoftazure&logoColor=818CF8" alt="Azure AI Search"/>
-  <img src="https://img.shields.io/badge/Vector%20Databases-1C1C2E?style=flat-square&logo=databricks&logoColor=818CF8" alt="Vector DBs"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Azure%20AI%20Search-1C1C2E?style=flat-square&logo=msazure&logoColor=818CF8" alt="Azure AI Search"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Vector%20Databases-1C1C2E?style=flat-square&logo=database&logoColor=818CF8" alt="Vector DBs"/>
   <img src="https://img.shields.io/badge/REST%20APIs-1C1C2E?style=flat-square&logo=swagger&logoColor=818CF8" alt="REST APIs"/>
   <img src="https://img.shields.io/badge/SQL-1C1C2E?style=flat-square&logo=postgresql&logoColor=818CF8" alt="SQL"/>
 </div>
@@ -82,8 +82,8 @@ intersection of Agentic AI, retrieval-augmented generation, and large-scale ML.
   <img src="https://img.shields.io/badge/Databricks-1C1C2E?style=flat-square&logo=databricks&logoColor=A78BFA" alt="Databricks"/>
   <img src="https://img.shields.io/badge/Airflow-1C1C2E?style=flat-square&logo=apacheairflow&logoColor=A78BFA" alt="Airflow"/>
   <img src="https://img.shields.io/badge/dbt-1C1C2E?style=flat-square&logo=dbt&logoColor=A78BFA" alt="dbt"/>
-  <img src="https://img.shields.io/badge/Azure%20ML%20Studio-1C1C2E?style=flat-square&logo=microsoftazure&logoColor=A78BFA" alt="Azure ML"/>
-  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-1C1C2E?style=flat-square&logo=microsoftazure&logoColor=A78BFA" alt="ADF"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Azure%20ML%20Studio-1C1C2E?style=flat-square&logo=msazure&logoColor=A78BFA" alt="Azure ML"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Azure%20Data%20Factory-1C1C2E?style=flat-square&logo=msazure&logoColor=A78BFA" alt="ADF"/>
 </div>
 
 ---
@@ -337,9 +337,9 @@ Built and productionized ML forecasting, optimization, and data engineering syst
 <img src="https://img.shields.io/badge/IBM%20Generative%20AI%3A%20Prompt%20Engineering-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM GenAI"/>
 
 ### Oracle
-<img src="https://img.shields.io/badge/Oracle%20Fusion%20AI%20Agent%20Studio-Certified%20Foundations%20Associate-7C3AED?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1e1e2e" alt="Oracle AI Agent Studio"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Oracle%20Fusion%20AI%20Agent%20Studio-Certified%20Foundations%20Associate-7C3AED?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1e1e2e" alt="Oracle AI Agent Studio"/>
 <br/>
-<img src="https://img.shields.io/badge/OCI%202025-Certified%20Application%20Integration%20Professional-6366F1?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1e1e2e" alt="OCI Integration Professional"/>
+<img src="https://custom-icon-badges.demolab.com/badge/OCI%202025-Certified%20Application%20Integration%20Professional-6366F1?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1e1e2e" alt="OCI Integration Professional"/>
 
 ### HackerRank
 <img src="https://img.shields.io/badge/SQL%20(Intermediate)-Certified-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1e1e2e" alt="HackerRank SQL"/>
@@ -443,7 +443,7 @@ open_to:
 
 <a href="mailto:ramana121198@gmail.com"><img src="https://img.shields.io/badge/Gmail-ramana121198@gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1e2e" alt="Gmail"/></a>
 <br/>
-<a href="https://www.linkedin.com/in/venkata-ramana-veeraiahgari-9042b3169"><img src="https://img.shields.io/badge/LinkedIn-Venkata%20Ramana%20Veeraiahgari-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1e2e" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/venkata-ramana-veeraiahgari-9042b3169"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Venkata%20Ramana%20Veeraiahgari-4F46E5?style=for-the-badge&logo=linkedin-white&logoColor=white&labelColor=1e1e2e" alt="LinkedIn"/></a>
 <br/>
 <a href="https://github.com/vvramana007"><img src="https://img.shields.io/badge/GitHub-vvramana007-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1e2e" alt="GitHub"/></a>
 <br/>
