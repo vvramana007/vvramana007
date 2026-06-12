@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Venkata%20Ramana%20Veeraiahgari&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Agentic%20AI%20%7C%20RAG%20Architectures%20%7C%20Scalable%20ML%20Systems&descAlignY=58&descSize=16" width="100%"/>
 
-<a href="https://github.com/ramana121198">
+<a href="https://github.com/vvramana007">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+4%2B+Years+Experience;Agentic+AI+%7C+LangGraph+%7C+Azure+OpenAI;High-Precision+RAG+Architectures;Scalable+ML+Pipelines+%7C+Spark+%7C+Databricks;Production-Grade+MLOps+on+Azure+%26+AWS" alt="Typing SVG" />
 </a>
 
@@ -13,16 +13,16 @@
 
 <br/><br/>
 
-<a href="https://ramana121198.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/venkata-ramana-veeraiahgari"><img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://vvramana007.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/venkata-ramana-veeraiahgari-9042b3169"><img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:ramana121198@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/ramana121198"><img src="https://img.shields.io/badge/GitHub-Follow-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/vvramana007"><img src="https://img.shields.io/badge/GitHub-Follow-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ramana121198&style=flat-square&color=8B5CF6&label=Profile+Views" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/ramana121198?style=flat-square&color=7C3AED&labelColor=1e1e2e&label=Followers" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/ramana121198?style=flat-square&color=6366F1&labelColor=1e1e2e&label=Stars" alt="Stars"/>
+<img src="https://komarev.com/ghpvc/?username=vvramana007&style=flat-square&color=8B5CF6&label=Profile+Views" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/vvramana007?style=flat-square&color=7C3AED&labelColor=1e1e2e&label=Followers" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/vvramana007?style=flat-square&color=6366F1&labelColor=1e1e2e&label=Stars" alt="Stars"/>
 
 </div>
 
@@ -109,19 +109,70 @@ intersection of Agentic AI, retrieval-augmented generation, and large-scale ML.
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>🤖 AI-Powered Job Search Automation Agent</b> — <i>Python · OpenAI · n8n · Google Sheets</i></summary>
+<summary><b>🏢 Omni-AP — Enterprise AI Agents Platform</b> — <i>AI Agents · SSO · SAP Integration · Automation</i></summary>
+<br/>
+
+| Attribute | Details |
+|:----------|:--------|
+| **Stack** | LLM-based AI agents, SSO authentication, SAP integration, scalable automation workflows |
+| **Scale** | Enterprise platform managing the full deployment lifecycle of AI agents |
+| **Performance** | Scalable automation workflows spanning multiple enterprise systems |
+| **Security** | Single Sign-On (SSO) with enterprise-grade access control |
+| **Impact** | Unified platform for building, deploying & operating AI agents across the enterprise |
+| **Repository** | [Omni-AP-AI-Agents-Platform](https://github.com/vvramana007/Omni-AP-AI-Agents-Platform) |
+
+An enterprise AI agent platform combining SSO authentication, SAP integration, and a complete agent deployment lifecycle. Designed for scalable automation workflows — providing organizations a single control plane to build, deploy, and operate LLM-powered agents against core business systems.
+
+</details>
+
+<details>
+<summary><b>⚡ EnergAI — Agentic AI for Renewable Energy</b> — <i>IBM watsonx Orchestrate · Agentic AI</i></summary>
+<br/>
+
+| Attribute | Details |
+|:----------|:--------|
+| **Stack** | IBM watsonx Orchestrate, agentic AI workflows, HTML |
+| **Scale** | Renewable energy supply-demand optimization across grid scenarios |
+| **Performance** | Autonomous agents continuously balance supply forecasts against demand signals |
+| **Security** | Enterprise watsonx governance & orchestration controls |
+| **Impact** | Smarter renewable energy allocation through autonomous agent-driven optimization |
+| **Repository** | [EnergAI-Agentic-AI](https://github.com/vvramana007/EnergAI-Agentic-AI) |
+
+An agentic AI system for renewable energy supply-demand optimization built on IBM watsonx Orchestrate. Autonomous agents reason over supply forecasts and demand signals to drive optimization decisions — demonstrating applied agentic AI in the sustainability and energy domain.
+
+</details>
+
+<details>
+<summary><b>📚 RAG LangChain Streamlit App</b> — <i>LangChain · LLMs · Streamlit · Vector Search</i></summary>
+<br/>
+
+| Attribute | Details |
+|:----------|:--------|
+| **Stack** | Python, LangChain, LLMs, Streamlit, embeddings & vector retrieval |
+| **Scale** | End-to-end document ingestion, chunking, embedding & querying pipeline |
+| **Performance** | Real-time intelligent document Q&A through an interactive Streamlit UI |
+| **Security** | Local document processing within the application boundary |
+| **Impact** | Turns static document collections into a conversational knowledge interface |
+| **Repository** | [RAG-LangChain-Streamlit-App](https://github.com/vvramana007/RAG-LangChain-Streamlit-App) |
+
+An end-to-end RAG application using LangChain, LLMs, and Streamlit for intelligent document querying. Implements the full retrieval-augmented generation loop — ingestion, chunking, embedding, retrieval, and grounded answer generation — behind a clean interactive interface.
+
+</details>
+
+<details>
+<summary><b>🤖 AI Jobs Agent — Job Search Automation</b> — <i>Python · OpenAI · n8n · LLM Matching</i></summary>
 <br/>
 
 | Attribute | Details |
 |:----------|:--------|
 | **Stack** | Python, OpenAI API, n8n, REST APIs, RSS, Google Sheets |
-| **Scale** | Continuous ingestion from multiple RSS job feeds with autonomous scheduling |
-| **Performance** | Fully autonomous end-to-end pipeline with workflow scheduling & retry logic |
+| **Scale** | Continuous ingestion from multiple job feeds with autonomous scheduling |
+| **Performance** | LLM-based fit evaluation ranks and organizes opportunities automatically |
 | **Security** | API key isolation, structured error handling, fault-tolerant execution |
-| **Impact** | Automated job discovery, metadata enrichment & notification — zero manual tracking |
-| **Repository** | [View on GitHub](https://github.com/ramana121198) |
+| **Impact** | Automated job discovery, fit scoring & notification — zero manual tracking |
+| **Repository** | [AI-Jobs-Agent](https://github.com/vvramana007/AI-Jobs-Agent) |
 
-An end-to-end automation agent that ingests job postings from RSS feeds via REST APIs, leverages OpenAI to extract and enrich job metadata, and persists structured results for tracking and notifications. Demonstrates production patterns in LLM integration, API orchestration, ETL logic, and data-driven personalization — the same core patterns powering modern marketing automation platforms.
+An AI-powered job matching agent that scrapes postings, uses OpenAI to extract and enrich job metadata, evaluates candidate fit with LLMs, and persists structured results for tracking and notifications. Demonstrates production patterns in LLM integration, API orchestration, ETL logic, and data-driven personalization.
 
 </details>
 
@@ -136,7 +187,7 @@ An end-to-end automation agent that ingests job postings from RSS feeds via REST
 | **Performance** | Generates topic-structured technical & behavioral Q&A in natural first-person tone |
 | **Security** | Resume data processed locally within the workflow context |
 | **Impact** | Personalized, quantified-impact interview narratives generated in seconds |
-| **Repository** | [View on GitHub](https://github.com/ramana121198) |
+| **Repository** | [View on GitHub](https://github.com/vvramana007) |
 
 An AI agent that consumes a job description and candidate resume to generate personalized technical and behavioral Q&A. Engineered prompt workflows that structure responses by topic, emphasize quantifiable impact, and dynamically adapt output style across different target roles.
 
@@ -153,7 +204,7 @@ An AI agent that consumes a job description and candidate resume to generate per
 | **Performance** | Accelerated development and support workflows through AI-assisted automation |
 | **Security** | Enterprise SAP integration patterns with controlled API access |
 | **Impact** | Faster development cycles and reduced support resolution time |
-| **Repository** | [View on GitHub](https://github.com/ramana121198) |
+| **Repository** | [View on GitHub](https://github.com/vvramana007) |
 
 AI-driven automations and agents integrated with SAP systems to generate code snippets, summarize logs, and trigger notifications. Collaborated with a small team to prototype an intelligent layer on top of SAP — combining deep ABAP/S/4HANA knowledge with modern LLM-based orchestration.
 
@@ -170,9 +221,60 @@ AI-driven automations and agents integrated with SAP systems to generate code sn
 | **Performance** | Similarity search surfaces relevant prior incidents and contextual docs instantly |
 | **Security** | Internal knowledge base isolation within the retrieval layer |
 | **Impact** | Targeted, context-grounded troubleshooting guidance for new incidents |
-| **Repository** | [View on GitHub](https://github.com/ramana121198) |
+| **Repository** | [View on GitHub](https://github.com/vvramana007) |
 
 A RAG-based assistant that ingests historical SAP operational data into a vector database for similarity search. Implemented chunking, embeddings, and retrieval pipelines so that for any new incident, the system surfaces similar past cases and contextual documents — enabling LLMs to generate precise, grounded troubleshooting guidance.
+
+</details>
+
+<details>
+<summary><b>📈 Walmart Revenue Forecasting</b> — <i>Time-Series · FRED Data · Out-of-Sample Evaluation</i></summary>
+<br/>
+
+| Attribute | Details |
+|:----------|:--------|
+| **Stack** | Python, Jupyter, time-series modeling, FRED retail-sales data |
+| **Scale** | Quarterly revenue forecasting against macro-level retail indicators |
+| **Performance** | Rigorous out-of-sample evaluation with baseline model comparison |
+| **Security** | Public economic data — fully reproducible analysis |
+| **Impact** | Demonstrates disciplined forecasting methodology with honest holdout validation |
+| **Repository** | [walmart-forecasting](https://github.com/vvramana007/walmart-forecasting) |
+
+A time-series forecasting project using FRED retail-sales data to predict Walmart quarterly revenue. Emphasizes proper out-of-sample evaluation and baseline comparison — the methodological rigor that separates production forecasting from notebook demos.
+
+</details>
+
+<details>
+<summary><b>🎬 Video Event Data Quality POC</b> — <i>Python · pandas · AI-Assisted Data Quality</i></summary>
+<br/>
+
+| Attribute | Details |
+|:----------|:--------|
+| **Stack** | Python, pandas, Jupyter, AI-assisted analysis |
+| **Scale** | Video playback event streams with multi-dimensional quality checks |
+| **Performance** | Automated detection of anomalies and integrity issues in event data |
+| **Security** | Isolated POC environment with synthetic/sample event data |
+| **Impact** | Surfaces silent data quality failures before they corrupt downstream analytics |
+| **Repository** | [Video-Event-Data-Quality-POC](https://github.com/vvramana007/Video-Event-Data-Quality-POC) |
+
+An AI-assisted proof of concept for detecting data quality issues in video playback event data. Combines pandas-based validation logic with AI-assisted analysis to flag anomalies, gaps, and integrity violations in streaming event pipelines.
+
+</details>
+
+<details>
+<summary><b>♻️ IoT Smart Waste System</b> — <i>IoT · Sensors · UV Disinfection</i></summary>
+<br/>
+
+| Attribute | Details |
+|:----------|:--------|
+| **Stack** | IoT sensors, embedded monitoring, UV disinfection hardware |
+| **Scale** | Real-time monitoring across medical waste handling points |
+| **Performance** | Continuous fill-level and status monitoring with automated disinfection |
+| **Security** | Safer medical waste handling with reduced human exposure |
+| **Impact** | Healthier, automated waste management for clinical environments |
+| **Repository** | [IoT-Smart-Waste-System](https://github.com/vvramana007/IoT-Smart-Waste-System) |
+
+An IoT-based smart waste monitoring and UV disinfection system designed for safer medical waste handling. Pairs sensor-driven monitoring with automated UV disinfection to reduce contamination risk and manual exposure in clinical settings.
 
 </details>
 
@@ -264,12 +366,12 @@ Built and productionized ML forecasting, optimization, and data engineering syst
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ramana121198&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9&count_private=true" height="170" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramana121198&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" height="170" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vvramana007&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9&count_private=true" height="170" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvramana007&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" height="170" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=ramana121198&theme=midnight-purple&hide_border=true&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" height="170" alt="Streak Stats"/>
+<img src="https://streak-stats.demolab.com?user=vvramana007&theme=midnight-purple&hide_border=true&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" height="170" alt="Streak Stats"/>
 
 </div>
 
@@ -279,7 +381,7 @@ Built and productionized ML forecasting, optimization, and data engineering syst
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ramana121198&theme=discord&no-frame=true&no-bg=true&row=1&column=7&title_color=A78BFA" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=vvramana007&theme=discord&no-frame=true&no-bg=true&row=1&column=7&title_color=A78BFA" alt="GitHub Trophies"/>
 
 </div>
 
@@ -289,7 +391,7 @@ Built and productionized ML forecasting, optimization, and data engineering syst
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ramana121198&theme=react-dark&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=6366F1&hide_border=true&area=true&area_color=7C3AED" width="100%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vvramana007&theme=react-dark&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=6366F1&hide_border=true&area=true&area_color=7C3AED" width="100%" alt="Contribution Graph"/>
 
 </div>
 
@@ -300,9 +402,9 @@ Built and productionized ML forecasting, optimization, and data engineering syst
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramana121198/ramana121198/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramana121198/ramana121198/output/github-contribution-grid-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/ramana121198/ramana121198/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vvramana007/vvramana007/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vvramana007/vvramana007/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/vvramana007/vvramana007/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 </picture>
 
 </div>
@@ -341,11 +443,11 @@ open_to:
 
 <a href="mailto:ramana121198@gmail.com"><img src="https://img.shields.io/badge/Gmail-ramana121198@gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1e2e" alt="Gmail"/></a>
 <br/>
-<a href="https://www.linkedin.com/in/venkata-ramana-veeraiahgari"><img src="https://img.shields.io/badge/LinkedIn-Venkata%20Ramana%20Veeraiahgari-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1e2e" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/venkata-ramana-veeraiahgari-9042b3169"><img src="https://img.shields.io/badge/LinkedIn-Venkata%20Ramana%20Veeraiahgari-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1e2e" alt="LinkedIn"/></a>
 <br/>
-<a href="https://github.com/ramana121198"><img src="https://img.shields.io/badge/GitHub-ramana121198-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1e2e" alt="GitHub"/></a>
+<a href="https://github.com/vvramana007"><img src="https://img.shields.io/badge/GitHub-vvramana007-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1e2e" alt="GitHub"/></a>
 <br/>
-<a href="https://ramana121198.github.io"><img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-6366F1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e1e2e" alt="Portfolio"/></a>
+<a href="https://vvramana007.github.io"><img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-6366F1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e1e2e" alt="Portfolio"/></a>
 
 </div>
 
